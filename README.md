@@ -14,6 +14,8 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 - Spring JPA
 - H2
 - Development Tools
+- testing for code intergation.
+
 
 ## Git 2.10.0
 - IntelliJ IDEA 2016.2.4
